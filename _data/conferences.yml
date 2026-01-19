@@ -1573,4 +1573,13 @@
   date: May 24-28
   place: Glasgow, UK
   tags: [SEC, PRIV, SHOP]
-  
+
+- name: AMASS
+  description: Workshop on Advances in Malware Analysis and Software Security
+  year: 2026
+  link: https://sites.google.com/view/amass2026/home
+  deadline: ["2026-01-30 23:59"]
+  comment: Co-located with ACM ASIACCS 2026
+  date: June 02
+  place: Bangalore, India
+  tags: [SEC, PRIV, SHOP]
