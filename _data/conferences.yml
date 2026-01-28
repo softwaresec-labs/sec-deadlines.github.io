@@ -1584,3 +1584,13 @@
   date: May 21, 2026
   place: San Francisco, California, USA
   tags: [SEC, PRIV, SHOP]
+
+- name: AMASS
+  description: Workshop on Advances in Malware Analysis and Software Securityy
+  year: 2026
+  link: https://sites.google.com/view/amass2026
+  deadline: ["2026-01-31 23:59"]
+  comment: Co-located with ACM ASIACCS 2026
+  date: June 2, 2026
+  place: Bangalore, India
+  tags: [SEC, PRIV, SHOP]
